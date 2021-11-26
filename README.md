@@ -28,5 +28,6 @@ It...
 # Modules used
 - numpy
 - pygame
+
 ![Screenshot from 2021-11-26 13-54-20](https://user-images.githubusercontent.com/94740279/143584307-e9b407ba-2d23-4e72-846d-d199f94f026f.png)
 ![Screenshot from 2021-11-26 14-01-47](https://user-images.githubusercontent.com/94740279/143585195-6ed42c41-c712-425a-82ef-4c719cbe320c.png)

@@ -534,6 +534,7 @@ def game_loop():
     while True:
         draw_screen()
         display_lives()
+        pg.display.update()
 
         for event in pg.event.get():
             pos = pg.mouse.get_pos()
@@ -627,10 +628,6 @@ def game_loop():
 
         if board.selected and key:
             board.set_temp(key)
-
-        draw_screen()
-        display_lives()
-        pg.display.update()
 
 
 if __name__ == '__main__':
